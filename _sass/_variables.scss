@@ -14,7 +14,7 @@ $light-cyan-color: lighten($cyan-color, 25%);
 $green-color: #00ab37 !default;
 $green-color-lime: #b7d12a !default;
 $green-color-dark: #009f06 !default;
-$mpg-color-dark: #376782 !default;
+$mpg-color-dark: #055b8e !default;
 $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
 $purple-color: #b509ac !default;
@@ -25,7 +25,7 @@ $yellow-color: #efcc00 !default;
 
 $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark: #1c1c1d;
+$grey-color-dark: darken($grey-color, 25%);
 $grey-900: #212529;
 
 $white-color: #ffffff !default;
