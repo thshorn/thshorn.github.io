@@ -9,20 +9,13 @@
 - title: Education
   type: time_table
   contents:
-    - title: MSc
-      institution: University of Tübingen, Tübingen, Germany
+    - title: PhD Computational Neuroscience
+      institution: Department of Computational Neuroscience, Max Planck Institute for Biological Cybernetics & Eberhard Karls University Tübingen, Germany
+      year: now
+    - title: MSc Neural Information Processing
+      institution: Graduate Training Centre of Neuroscience, Eberhard Karls University Tübingen, Tübingen, Germany
       year: 2023
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: BSc
-      institution: University of Tübingen, Tübingen, Germany
+      institution: Eberhard Karls University Tübingen, Tübingen, Germany
       year: 2021
-      description:
-        - Description 1.
-        - Description 2.
 
