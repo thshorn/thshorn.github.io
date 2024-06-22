@@ -7,8 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-# Pint of Science
+### Pint of Science
 Pint of Science Tübingen is a yearly talk series aiming at bringing science to everyone. ...
 
-# NeNa conference
+### NeNa conference
 The NeNa conference is ...
